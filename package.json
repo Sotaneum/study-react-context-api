@@ -2,7 +2,7 @@
   "name": "context-tutorial",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://sotaneum.github.io/study-react-news-viewer",
+  "homepage": "https://sotaneum.github.io/study-react-context-api",
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/react": "^9.3.2",
